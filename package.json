@@ -1,0 +1,23 @@
+{
+  "name": "neuralnetwork-js",
+  "version": "0.0.1",
+  "description": "Toy Neural Network JavaScript library for Coding Train tutorials",
+  "main": "",
+  "scripts": {
+    "start": "python -m SimpleHTTPServer 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseluismurillorios/neuralnetwork-js.git"
+  },
+  "keywords": [
+    "neural",
+    "network",
+    "machine",
+    "learning",
+    "education",
+    "javascript"
+  ],
+  "author": "The Coding Train community",
+  "license": "MIT"
+}
